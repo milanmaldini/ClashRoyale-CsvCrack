@@ -1,0 +1,11 @@
+"Name","TID","SubtitleTID","Arena","TrainingCamp","TrophyLimit","DemoteTrophyLimit","ChestRewardMultiplier","ChestShopPriceMultiplier","RequestSize","MaxDonationCount","IconSWF","IconExportName","MatchmakingMinTrophyDelta","MatchmakingMaxTrophyDelta","MatchmakingMaxSeconds","PvpLocation","DailyDonationCapacityLimit"
+"string","string","string","Int","boolean","int","int","int","int","int","int","string","string","int","int","int","String","int"
+"TrainingCamp","TID_ARENA_TRAINING_CAMP","TID_INFO_ARENA_TRAINING_CAMP",0,"TRUE",0,0,100,100,10,1,"sc/ui_arena.sc","arena_00",0,200,120,"TrainingCamp",60
+"Arena1","TID_ARENA1","TID_INFO_ARENA1",1,,0,0,100,100,10,1,"sc/ui_arena.sc","arena_01",0,200,120,"PvP_goblin",60
+"Arena2","TID_ARENA2","TID_INFO_ARENA2",2,,400,350,135,130,10,2,"sc/ui_arena.sc","arena_02",40,300,120,"PvP_bone",60
+"Arena3","TID_ARENA3","TID_INFO_ARENA3",3,,800,750,170,160,10,2,"sc/ui_arena.sc","arena_03",80,350,120,"PvP_barbarian",60
+"Arena4","TID_ARENA4","TID_INFO_ARENA4",4,,1100,1050,200,180,10,2,"sc/ui_arena.sc","arena_04",100,400,120,"PvP_dark",60
+"Arena5","TID_ARENA5","TID_INFO_ARENA5",5,,1400,1350,230,200,10,2,"sc/ui_arena.sc","arena_05",120,450,120,"PvP_spell",60
+"Arena6","TID_ARENA6","TID_INFO_ARENA6",6,,1700,1650,260,220,10,2,"sc/ui_arena.sc","arena_06",140,500,120,"PvP_builder",60
+"Arena8","TID_ARENA8","TID_INFO_ARENA8",8,,3000,2950,380,300,10,2,"sc/ui_arena.sc","arena_08",160,500,120,"PvP_legendary",60
+"Arena7","TID_ARENA7","TID_INFO_ARENA7",7,,2000,1950,290,240,10,2,"sc/ui_arena.sc","arena_07",140,500,120,"PvP_royal",60

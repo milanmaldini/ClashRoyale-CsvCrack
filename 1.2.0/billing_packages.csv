@@ -1,0 +1,8 @@
+Name,TID,Disabled,ExistsApple,ExistsAndroid,ExistsKunlun,Diamonds,USD,RMB,Order,IconFile,LenovoID
+String,String,boolean,boolean,boolean,boolean,int,int,int,int,string,int
+com.supercell.scroll.gempack0,TID_DIAMOND_PACK_1,,TRUE,TRUE,TRUE,500,499,3000,1,shop_gems02,49026
+com.supercell.scroll.gempack1,TID_DIAMOND_PACK_2,,TRUE,TRUE,TRUE,1200,999,6800,2,shop_gems03,49027
+com.supercell.scroll.gempack2,TID_DIAMOND_PACK_3,,TRUE,TRUE,TRUE,2500,1999,12800,3,shop_gems04,49028
+com.supercell.scroll.gempack3,TID_DIAMOND_PACK_4,,TRUE,TRUE,TRUE,6500,4999,32800,4,shop_gems05,49029
+com.supercell.scroll.gempack4,TID_DIAMOND_PACK_5,,TRUE,TRUE,TRUE,14000,9999,64800,5,shop_gems06,49030
+com.supercell.scroll.gempack5,TID_DIAMOND_PACK_0,,TRUE,TRUE,TRUE,80,99,600,0,shop_gems01,49025
