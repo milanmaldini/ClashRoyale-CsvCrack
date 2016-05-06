@@ -1,0 +1,2 @@
+"Name","FileName","BlueExportName","RedExportName","BlueTopExportName","RedTopExportName","HatchDuration","Hitpoints","CharacterStartingBuff","CharacterStartingBuffTime","Homespawn","IgnoreAggro","CollisionRadius","Effect","DeathEffect","ShadowScale","ShadowX","ShadowY","ShadowSkew"
+"String","String","String","String","String","String","int","int","String","int","boolean","boolean","int","String","String","int","int","int","int"
